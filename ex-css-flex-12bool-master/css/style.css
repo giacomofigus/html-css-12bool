@@ -1,0 +1,57 @@
+body{
+    background-color: #9ad8ed;
+}
+
+.container{
+    border: 1px solid red;
+}
+
+.row{
+    border: 1px solid black;
+}
+
+.red{
+    background-color: #d61f15;
+    border: 1px solid black;
+    height: 50px;
+}
+
+.brown{
+    background-color: #82431f;
+    height: 50px;
+    border: 1px solid black;
+}
+
+.skin{
+    background-color: #f0c08d;
+    height: 50px;
+    border: 1px solid black;
+}
+
+.black{
+    background-color: black;
+    height: 50px;
+    border: 1px solid black; 
+}
+
+.blue{
+    background-color: #4860a8;
+    height: 50px;
+    border: 1px solid black;
+}
+
+.gold{
+    background-color: #f5ad14;
+    height: 50px;
+    border: 1px solid black;
+}
+
+.green-dark{
+    background-color: #8eb853;
+    height: 50px;
+}
+
+.light-green{
+    background-color: #acd474;
+    height: 50px;
+}
